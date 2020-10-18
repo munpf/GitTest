@@ -1,2 +1,2 @@
-# ShiYanLouGitTest
-实验楼 Git课程测试
+# GitTest
+用于Git以及GitHub的学习测试
